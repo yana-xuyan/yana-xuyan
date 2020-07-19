@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning ...
+- 🌱 Hope everything will end before 2021!
 <!--
 **yana-xuyan/yana-xuyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
