@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 Hope everything will end before 2021!
+- 🌱 Welcome to my Github Repo!
+- 📫 How to reach me: yxucb@connect.ust.hk
 
 <a href="https://yana-xuyan.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yana-xuyan&count_private=true&show_icons=true" />
